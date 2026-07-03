@@ -1,20 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0077b6&height=230&section=header&text=Hi,%20I'm%20Dao%20Phuc%20Dan%20👋&fontSize=42&animation=twinkling" />
-</p>
+# 🧑‍💻 Đào Phúc Dân (phucnad9121)
 
-<p align="center">
-  <a href="mailto:phucnad9121@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://topcv.vn"><img src="https://img.shields.io/badge/TopCV-00B14F?style=for-the-badge&logo=cv&logoColor=white" target="_blank"></a>
-  <a href="https://upwork.com"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" target="_blank"></a>
+<p align="left">
+  <a href="mailto:phucnad9121@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://topcv.vn"><img src="https://img.shields.io/badge/TopCV-00B14F?style=flat-square&logo=cv&logoColor=white" /></a>
+  <a href="https://upwork.com"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=phucnad9121&color=0077b6&style=flat-square&label=Lượt+xem+hồ+sơ" alt="Profile Views" />
 </p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=0077B6&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Full-Stack+Developer;Currently+exploring+Computer+Vision+👁️;Building+highly+scalable+web+apps+🚀" alt="Typing SVG" />
-</div>
 
 ---
 
-## 🧑‍💻 Về Tôi / About Me
+## 🧑‍💻 Về Tôi
 Tôi là **Đào Phúc Dân**, hiện là sinh viên năm thứ 3 ngành Công nghệ thông tin tại **Trường Đại học Công nghệ Giao thông Vận tải (UTT)**. Tôi tập trung nghiên cứu sâu vào ứng dụng Trí tuệ nhân tạo (AI/Computer Vision) kết hợp với kiến trúc hệ thống Web Full-stack và xử lý dữ liệu lớn (Big Data). 
 
 - 🎓 **Học vấn:** Sinh viên K74 - Đại học Công nghệ Giao thông Vận tải.
@@ -35,34 +30,34 @@ Tôi là **Đào Phúc Dân**, hiện là sinh viên năm thứ 3 ngành Công n
 
 ### 🤖 Trí tuệ nhân tạo & Thị giác máy tính (AI & Computer Vision)
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8%20/%20YOLOv11-00F154?style=for-the-badge&logo=ultralytics&logoColor=black" />
-  <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dlib%20%26%20DeepSORT-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8%20/%20YOLOv11-00F154?style=flat-square&logo=ultralytics&logoColor=black" />
+  <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dlib%20%26%20DeepSORT-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
 
 ### 🌐 Phát triển ứng dụng Web (Full-Stack Web Development)
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
 ### 📊 Kiến trúc dữ liệu lớn (Big Data Ecosystem)
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop_HDFS-66E0FF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/MapReduce-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop_HDFS-66E0FF?style=flat-square&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/MapReduce-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
 ### 🔧 Công cụ phát triển & Môi trường (Dev Tools & Containers)
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-8V29BB?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-8V29BB?style=flat-square&logo=githubcopilot&logoColor=white" />
 </p>
 
 ---
