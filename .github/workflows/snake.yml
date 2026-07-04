@@ -38,10 +38,10 @@ jobs:
       # Tải các thẻ thống kê về lưu trữ (Precache cards giống adil192)
       - name: Download stats and languages cards
         run: |
-          curl -o dist/stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=dark&hide_border=true&count_private=true"
-          curl -o dist/stats-light.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=default&hide_border=true&count_private=true"
-          curl -o dist/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=dark&hide_border=true"
-          curl -o dist/top-langs-light.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=default&hide_border=true"
+          curl -o dist/stats.svg "https://github-readme-stats-one-bice.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=dark&hide_border=true&count_private=true"
+          curl -o dist/stats-light.svg "https://github-readme-stats-one-bice.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=default&hide_border=true&count_private=true"
+          curl -o dist/top-langs.svg "https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=dark&hide_border=true"
+          curl -o dist/top-langs-light.svg "https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=default&hide_border=true"
 
       # Đẩy tất cả ảnh trong dist/ lên branch "snake"
       - name: push generated images to the snake branch
