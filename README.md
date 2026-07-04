@@ -24,6 +24,6 @@
   </picture>
 </p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=phucnad9121&icon=0&color=0" alt="Visitor Count">
-</a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=phucnad9121&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
